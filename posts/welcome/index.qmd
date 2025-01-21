@@ -1,6 +1,6 @@
 ---
 title: "Welcome To My Blog"
-author: "Tristan O'Malley"
+author: "Max Anderson"
 date: "2025-01-18"
 categories: [news]
 ---
